@@ -28,7 +28,7 @@ It’s a content-based system — no user ratings or fancy deep learning — jus
 
 | File | What it does |
 |------|---------------|
-| `recommender.py` | Main logic for cleaning, vectorizing, and recommending |
+| `telugu_movie_recommender.py` | Main logic for cleaning, vectorizing, and recommending |
 | `TeluguMovies_dataset.csv` | The dataset with movie titles, overviews, genres, and years |
 
 
